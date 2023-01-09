@@ -1,3 +1,4 @@
 # stack
 practicing Github
-just as an starter.
+learning and practising.
+moving foreward. 
